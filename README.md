@@ -4,6 +4,8 @@
 <a href=""><img src="assets/evathink-logo.png" alt="logo" width="400px"></a>
 </p>
 
+<p align="center"><b>EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding</b></p>
+
 <p align="center">
     <a href="https://arxiv.org/abs/2611.13907", target="_blank"><img src="https://img.shields.io/badge/arXiv-2611.13907-b31b1b.svg"></a>
     <a href="https://huggingface.co/collections/MaplesWCT/evathink" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-blue?color=blue&logoColor=white" /></a>
