@@ -1,6 +1,9 @@
 # EVAThink
 
-<!-- TODO(author): paper title / arXiv link, citation -->
+<p align="center">
+    <a href="https://arxiv.org/abs/2611.13907", target="_blank"><img src="https://img.shields.io/badge/arXiv-2611.13907-b31b1b.svg"></a>
+    <a href="https://huggingface.co/collections/MaplesWCT/evathink" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20-Hugging%20Face-blue?color=blue&logoColor=white" /></a>
+</p>
 
 Code for **EVAThink**, a video-language model trained with reinforcement learning to decide per question whether to
 answer directly or to write a short evidence-grounded reasoning trace first.
